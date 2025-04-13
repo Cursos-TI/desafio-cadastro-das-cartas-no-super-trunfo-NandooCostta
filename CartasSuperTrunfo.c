@@ -2,7 +2,7 @@
 
 // Definindo a estrutura para representar uma carta
 struct Carta {
-    int populacao;
+    int populacao 40000;
     float area;
     float pib;
     int pontos_turisticos;
@@ -49,3 +49,4 @@ int main() {
 
     return 0;
 }
+
